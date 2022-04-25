@@ -1,7 +1,7 @@
 {
   "name": "sswq",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "sswq",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build .",
